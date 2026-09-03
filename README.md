@@ -8,4 +8,4 @@ This is a free local YouTube video downloader that uses high resoulution and has
 
 #  🚀How to Launch
 First if you don't already have python you will need to download it or you can go to Google Collab and use my .pynp file and upload it to Google Callab.
-Next you have to install the .py file in my deployments tab if you are running it localy and if you are not and running it in Google Collab then download the .pynp file. From here your pretty much all set and to change the video it downloads find this part towards the end of the code: "youtube_link = 'https://www.youtube.com/watch?v=QoYw-lMqToI'" and modify it so the YouTube link is the one you want to download.
+Next you have to install the .py file if you are running it localy and if you are not and running it in Google Collab then download the .pynp file. From here your pretty much all set and to change the video it downloads find this part towards the end of the code: "youtube_link = 'https://www.youtube.com/watch?v=QoYw-lMqToI'" and modify it so the YouTube link is the one you want to download.
